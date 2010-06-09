@@ -1,0 +1,24 @@
+[ui]
+username = Philipp von Weitershausen <philipp@weitershausen.de>
+verbose = True
+
+[diff]
+git=1
+
+[defaults]
+#diff = -pU8
+qseries = -sv
+
+[extensions]
+mq =
+hgk =
+hgext.record =
+hgext.rebase =
+hgext.graphlog =
+#mercurial_keyring =
+
+[hgk]
+path=/opt/local/share/mercurial/contrib/hgk
+
+[paths]
+bitbucket = https://philikon@bitbucket.org

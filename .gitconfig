@@ -1,0 +1,10 @@
+[user]
+	email = philipp@weitershausen.de
+
+[alias]
+	ci = commit
+	st = status
+	patch = add -p
+
+[color]
+	status = auto
