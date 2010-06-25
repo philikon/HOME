@@ -15,6 +15,7 @@ hgk =
 hgext.record =
 hgext.rebase =
 hgext.graphlog =
+hgext.convert =
 #mercurial_keyring =
 
 [hgk]
