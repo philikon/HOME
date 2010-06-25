@@ -11,6 +11,7 @@ alias vlc='open -a VLC'
 alias svnst='svn st --ignore-externals'
 alias mkdir='mkdir -p'
 alias bar='bzr'
+alias wgets='wget --no-check-certificate'
 alias gitx='open -a GitX .'
 alias murky='open -a Murky .'
 alias firefox="/Applications/Firefox.app/Contents/MacOS/firefox-bin"
