@@ -33,7 +33,7 @@
 
 (setq-default ispell-program-name "/opt/local/bin/aspell")
 
-(add-to-list 'load-path "/opt/lib/emacs")
+(add-to-list 'load-path "/Users/philipp/lib/emacs")
 (autoload 'python-mode "python-mode" "Python editing mode." t)
 (autoload 'js2-mode "js2" nil t)
 (autoload #'espresso-mode "espresso" "Start espresso-mode" t)
@@ -74,10 +74,10 @@
 
 ;(add-hook 'nxml-mode-hook (lambda() (setq indent-tabs-mode nil)))
 
-(load-file "~/physik/iktp/mathematica.el")
-(setq mathematica-never-start-kernel-with-mode t)
-(add-to-list 'auto-mode-alist '("\\.mod$" . mathematica-mode))
-(add-to-list 'auto-mode-alist '("\\.gen$" . mathematica-mode))
+;;(load-file "~/physik/iktp/mathematica.el")
+;;(setq mathematica-never-start-kernel-with-mode t)
+;;(add-to-list 'auto-mode-alist '("\\.mod$" . mathematica-mode))
+;;(add-to-list 'auto-mode-alist '("\\.gen$" . mathematica-mode))
 
 
 ; Chris McDonough made me do this:
