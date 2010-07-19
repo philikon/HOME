@@ -46,6 +46,7 @@
 (add-to-list 'auto-mode-alist '("\\.pxi$" . python-mode))
 
 (add-to-list 'auto-mode-alist '("\\.js$" . js2-mode))
+(add-to-list 'auto-mode-alist '("\\.jsm$" . js2-mode))
 (add-to-list 'auto-mode-alist '("\\.json$" . espresso-mode))
 
 (add-to-list 'auto-mode-alist '("\\.pt$" . html-mode))
