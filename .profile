@@ -23,6 +23,7 @@ export JAVA_HOME=/usr
 export CVS_RSH=ssh
 export PS1='\u@\h:\w\$ '
 export EDITOR=vim
+#export HGMERGE=merge
 export PATH=$HOME/bin:$HOME/.cabal/bin:/opt/bin:/opt/local/bin:/usr/local/bin:$PATH
 export DISPLAY=:0.0
 

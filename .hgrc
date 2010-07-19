@@ -6,8 +6,12 @@ verbose = True
 git=1
 
 [defaults]
-#diff = -pU8
+diff = -pU8
 qseries = -sv
+
+[merge-tools]
+filemerge.executable = /Users/philipp/bin/opendiff-w
+filemerge.args = $local $other -ancestor $base -merge $output
 
 [extensions]
 mq =
