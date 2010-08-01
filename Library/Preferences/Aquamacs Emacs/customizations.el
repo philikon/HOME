@@ -4,6 +4,7 @@
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
  '(aquamacs-additional-fontsets nil t)
+ '(aquamacs-autoface-mode nil)
  '(aquamacs-customization-version-id 208 t)
  '(aquamacs-tool-bar-user-customization nil t)
  '(blink-cursor-mode nil)
