@@ -18,7 +18,8 @@
  '(tabbar-mode nil nil (tabbar))
  '(tool-bar-mode nil)
  '(uniquify-buffer-name-style (quote forward) nil (uniquify))
- '(visual-line-mode nil t))
+ '(visual-line-mode nil t)
+ '(x-select-enable-clipboard (quote non-nil)))
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
