@@ -1,2 +1,2 @@
 #!/bin/sh
-open -a Emacs $1
+open -a Aquamacs $1
