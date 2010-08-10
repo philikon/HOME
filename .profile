@@ -18,7 +18,7 @@ alias firefox="/Applications/Firefox.app/Contents/MacOS/firefox-bin"
 alias math='/Applications/Mathematica.app/Contents/MacOS/MathKernel'
 
 # env vars
-export LC_ALL=C
+export HISTSIZE=10000
 export JAVA_HOME=/usr
 export CVS_RSH=ssh
 export PS1='\u@\h:\w\$ '
