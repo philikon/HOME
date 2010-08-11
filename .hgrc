@@ -7,6 +7,8 @@ git=1
 
 [defaults]
 diff = -pU8
+qdiff = -pU8
+qnew = -U
 qseries = -sv
 
 [merge-tools]
