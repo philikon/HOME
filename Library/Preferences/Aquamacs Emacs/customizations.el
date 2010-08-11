@@ -14,6 +14,7 @@
  '(global-font-lock-mode t nil (font-core))
  '(js2-auto-indent-flag nil)
  '(js2-cleanup-whitespace nil)
+ '(js2-enter-indents-newline nil)
  '(js2-mirror-mode nil)
  '(menu-bar-mode t)
  '(ns-tool-bar-display-mode nil t)
