@@ -3,7 +3,8 @@ username = Philipp von Weitershausen <philipp@weitershausen.de>
 verbose = True
 
 [diff]
-git=1
+git = 1
+unified = 8
 
 [defaults]
 diff = -pU8
