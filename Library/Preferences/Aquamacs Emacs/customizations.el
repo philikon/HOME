@@ -16,6 +16,7 @@
  '(js2-cleanup-whitespace nil)
  '(js2-enter-indents-newline nil)
  '(js2-mirror-mode nil)
+ '(js2-skip-preprocessor-directives t)
  '(menu-bar-mode t)
  '(ns-tool-bar-display-mode nil t)
  '(ns-tool-bar-size-mode nil t)
