@@ -5,6 +5,7 @@ verbose = True
 [diff]
 git = 1
 unified = 8
+showfunc = 1
 
 [defaults]
 diff = -pU8
