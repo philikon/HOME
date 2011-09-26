@@ -26,6 +26,7 @@ export EDITOR=vim
 #export HGMERGE=merge
 export PATH=$HOME/bin:$HOME/.cabal/bin:/opt/bin:/opt/local/bin:/usr/local/bin:$PATH
 export DISPLAY=:0.0
+export MOZ_QUIET=1
 
 #if [ -f /opt/local/etc/bash_completion ]; then
 #    . /opt/local/etc/bash_completion
