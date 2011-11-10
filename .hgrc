@@ -21,6 +21,7 @@ filemerge.args = $local $other -ancestor $base -merge $output
 mq =
 hgk =
 churn =
+transplant =
 hgext.record =
 hgext.rebase =
 hgext.graphlog =
